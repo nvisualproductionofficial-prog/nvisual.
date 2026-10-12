@@ -1,0 +1,6 @@
+{
+  "name": "NVISUAL - Production House & Creative Visual Stories",
+  "description": "Website resmi NVISUAL Production House: Jasa dokumentasi kelulusan sekolah, event, company profile, film pendek, dokumenter, dan persewaan alat audiovisual profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
